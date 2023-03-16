@@ -2,6 +2,14 @@
 
 A new Flutter project.
 
+TOP画面
+![image](https://user-images.githubusercontent.com/88881324/225748764-2b50e51b-a676-4213-93a4-9a5cd923e2ac.png)
+
+クイズページ
+![image](https://user-images.githubusercontent.com/88881324/225748835-9743797f-a52e-4320-a3b0-1c4019020e81.png)
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
